@@ -1,0 +1,34 @@
+body {
+  font-family: Arial;
+  background: #121212;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  background: #00adb5;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #007b80;
+}
+
+#result {
+  margin-top: 20px;
+  white-space: pre-line;
+}
