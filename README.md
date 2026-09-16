@@ -1,4 +1,3 @@
-[8-graus-network.README.md](https://github.com/user-attachments/files/32305281/8-graus-network.README.md)
 # 🎬 8 Graus de Network
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
