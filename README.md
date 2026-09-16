@@ -44,7 +44,3 @@ Se não houver conexão entre os dois atores dentro do grafo carregado, a ferram
 ## Autor
 
 Leonardo Torassi
-
-## Licença
-
-Este projeto não possui uma licença definida.
